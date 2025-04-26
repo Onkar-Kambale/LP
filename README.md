@@ -13,7 +13,7 @@ A simple and clean landing page made with **HTML** and **CSS**.
 
 ## 📸 Preview
 
-![Landing Page Preview](assets/LP_deployed.png)
+![Landing Page Preview](LP_deployed.png)
 
 ---
 
